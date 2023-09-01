@@ -1,0 +1,7 @@
+uart_18xx_43xx.h:329:20:Chip_UART_SendByte	16	static
+funciones.c:9:13:printchar	16	static
+funciones.c:25:13:prints	40	static
+funciones.c:58:12:printi	64	static
+funciones.c:101:12:print	56	static
+funciones.c:167:5:printf_mio	16	static
+funciones.c:173:5:sprintf_mio	20	static

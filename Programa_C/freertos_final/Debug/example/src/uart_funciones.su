@@ -1,0 +1,2 @@
+core_cm4.h:1550:22:NVIC_SetPriority	16	static
+uart_funciones.c:14:6:UART_Init	32	static

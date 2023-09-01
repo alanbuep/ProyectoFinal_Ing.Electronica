@@ -1,0 +1,7 @@
+sprintf_function.c:27:13:printchar	16	static
+sprintf_function.c:40:12:prints	40	static
+sprintf_function.c:73:12:printi	64	static
+sprintf_function.c:116:12:print	56	static
+sprintf_function.c:182:5:printf_mio	16	static
+sprintf_function.c:188:5:sprintf_mio	20	static
+sprintf_function.c:194:5:main	112	static
